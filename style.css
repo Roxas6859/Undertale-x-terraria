@@ -1,0 +1,32 @@
+h1 {
+    color: white;
+    font-size: 55px;
+    text-align: center;
+    font-family: sans-serif;
+    padding-top: 50rem;
+    background-image: url(img.PNG);
+    background-size: 35em;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+body {
+    background-color: black;
+}
+.UT {
+    display: flex;
+    justify-content: center;
+    padding-top: 150px;
+}
+.btn {
+    width: 20rem;
+    height: 7rem;
+    border-radius: 30px;
+    background: linear-gradient(90deg, #EF3038, #FF8E0D);
+    color: white;
+    cursor: pointer;
+    border: hidden;
+    font-size: 2.8rem;
+}
+h2 {
+    color: white;
+    text-align: center;
+}
